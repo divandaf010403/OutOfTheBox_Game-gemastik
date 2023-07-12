@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Scenes/OutOfTheBox_GEMASTIK.unity.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
